@@ -32,7 +32,7 @@ The part I spent the most time on was permissions. Every page a player requests,
 
 ## The demo
 
-The demo campaign is rebuilt from a sample vault every 24 hours. You can read it as a guest, or use the buttons at the top to sign in as one of two demo players. Mira can see two pages Doran can't. If you open the same page as Mira in one browser and Doran in another, you can watch the Party notes box sync as you type.
+The demo campaign is rebuilt from a sample vault every 24 hours. You can read it as a guest, or use the buttons at the top to sign in as one of two demo players. Azura can see two pages Rush can't. If you open the same page as Azura in one browser and Rush in another, you can watch the Party notes box sync as you type.
 
 ![The demo campaign](images/00-demo.png)
 
